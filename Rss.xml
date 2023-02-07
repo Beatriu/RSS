@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Mi canal de RSS</title>
+        <link>https://www.xataka.com/</link>
+        <description>Notícies de informàtica</description>
+        <item>
+            <title>Counter Strike sigue siendo un juego icónico dos décadas después. Y ahora puedes jugarlo gratis en tu navegador</title>
+            <link>https://www.xataka.com/videojuegos/counter-strike-sigue-siendo-juego-iconico-dos-decadas-despues-ahora-puedes-jugarlo-tu-navegador</link>
+            <description>En nuestras breves pruebas —desde macOS Ventura con Firefox, de hecho— hemos comprobado que efectivamente el funcionamiento es sorprendentemente bueno —aunque ayuda que nos conectemos a servidores más cercanos a España, como los de Alemania—.</description>
+            <pubDate>Sun, 05 Feb 2023 16:13:30 +0100</pubDate>
+        </item>
+        <item>
+            <title>La casa del dragón</title>
+            <link>https://www.xataka.com/nuevo/casa-dragon-juego-tronos-hbo-serie-temporada-2-informacion</link>
+            <description>Los 20 millones de espectadores del primer episodio de 'La Casa del Dragón', la precuela de 'Juego de Tronos' que HBO estrenó en agosto de 2022, fueron más que suficientes para que el canal renovara de inmediato por una segunda temporada. Pese a las dudas iniciales, la serie acabó convenciendo como una digna continuación del revolucionario éxito de su predecesora, y aunque este primer producto derivado se hizo esperar tras unos cuantos pasos en falso, las cifras de audiencia y la recepción de la crítica dejaron claro que la franquicia está lejos de agotarse.</description>
+            <pubDate>Sat, 04 Feb 2023 18:43:19 +0100</pubDate>
+        </item>
+        <item>
+            <title>Netflix quiere que te quedes aunque ponga fin a las cuentas compartidas: estos cambios son sus argumentos</title>
+            <link>https://www.xataka.com/cine-y-tv/netflix-quiere-que-te-quedes-ponga-fin-a-cuentas-compartidas-estos-cambios-sus-argumentos</link>
+            <description>Netflix va a poner fin a las cuentas compartidas tal y como las conocíamos. Su funcionamiento será mucho más restrictivo y se perseguirá a quienes comparten cuenta sin vivir en el mismo domicilio. El método específico sigue aún algo difuso y de hecho en Netflix parece haber cierto caos por eso, pero una cosa está clara: saben que esta persecución tendrá consecuencias, y quieren aliviarlas con una serie de cambios.</description>
+            <pubDate>Fri, 03 Feb 2023 09:56:06 +0100</pubDate>
+        </item>
+    </channel>
+</rss>    
